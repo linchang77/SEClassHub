@@ -1,0 +1,6 @@
+﻿  fivechess.cpp
+C:\Users\linchang\Desktop\five-chess\five-chess\fivechess.cpp(272,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\linchang\Desktop\five-chess\five-chess\fivechess.cpp(319,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\linchang\Desktop\five-chess\five-chess\fivechess.cpp(324,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\linchang\Desktop\five-chess\five-chess\fivechess.cpp(347,27): warning C4018: “<”: 有符号/无符号不匹配
+  five-chess.vcxproj -> C:\Users\linchang\Desktop\five-chess\Debug\five-chess.exe

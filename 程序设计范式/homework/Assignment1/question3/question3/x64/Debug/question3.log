@@ -1,0 +1,4 @@
+﻿  stock.cpp
+C:\Users\linchang\Desktop\study\大二上学期\程序设计范式\homework\Assignment1\question3\question3\stock.cpp(10,8): warning C4101: “answer”: 未引用的局部变量
+C:\Users\linchang\Desktop\study\大二上学期\程序设计范式\homework\Assignment1\question3\question3\stock.cpp(38,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  question3.vcxproj -> C:\Users\linchang\Desktop\study\大二上学期\程序设计范式\homework\Assignment1\question3\x64\Debug\question3.exe

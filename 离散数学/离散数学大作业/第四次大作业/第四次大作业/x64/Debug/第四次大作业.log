@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\linchang\Desktop\离散数学\离散数学大作业\第四次大作业\第四次大作业\源.cpp(16,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\linchang\Desktop\离散数学\离散数学大作业\第四次大作业\第四次大作业\源.cpp(81,6): error C2065: “tb”: 未声明的标识符
+C:\Users\linchang\Desktop\离散数学\离散数学大作业\第四次大作业\第四次大作业\源.cpp(88,5): error C2065: “tb”: 未声明的标识符
+C:\Users\linchang\Desktop\离散数学\离散数学大作业\第四次大作业\第四次大作业\源.cpp(88,16): error C2065: “tb”: 未声明的标识符

@@ -1,0 +1,8 @@
+﻿  4-b1.cpp
+C:\Users\linchang\Desktop\高程homework\作业四\answer\cpp\4-b1.cpp(68,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  5-b11-2.cpp
+C:\Users\linchang\Desktop\高程homework\作业五\字符数组与string类\5-b11-2\5-b11-2.cpp(71,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+5-b11-2.obj : error LNK2005: "void __cdecl daxie(int,int)" (?daxie@@YAXHH@Z) 已经在 4-b1.obj 中定义
+5-b11-2.obj : error LNK2005: main 已经在 4-b1.obj 中定义
+C:\Users\linchang\Desktop\高程homework\作业五\字符数组与string类\x64\Debug\5-b11-2.cpp.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

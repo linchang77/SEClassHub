@@ -1,0 +1,73 @@
+getindata data.txt 3-b13-01|democpp>result2.txt
+getindata data.txt 3-b13-01|1 >result1.txt
+getindata data.txt 3-b13-02|democpp>>result2.txt
+getindata data.txt 3-b13-02|1 >>result1.txt
+getindata data.txt 3-b13-03|democpp>>result2.txt
+getindata data.txt 3-b13-03|1 >>result1.txt
+getindata data.txt 3-b13-04|democpp>>result2.txt
+getindata data.txt 3-b13-04|1 >>result1.txt
+getindata data.txt 3-b13-05|democpp>>result2.txt
+getindata data.txt 3-b13-05|1 >>result1.txt
+getindata data.txt 3-b13-06|democpp>>result2.txt
+getindata data.txt 3-b13-06|1 >>result1.txt
+getindata data.txt 3-b13-07|democpp>>result2.txt
+getindata data.txt 3-b13-07|1 >>result1.txt
+getindata data.txt 3-b13-08|democpp>>result2.txt
+getindata data.txt 3-b13-08|1 >>result1.txt
+getindata data.txt 3-b13-09|democpp>>result2.txt
+getindata data.txt 3-b13-09|1 >>result1.txt
+getindata data.txt 3-b13-10|democpp>>result2.txt
+getindata data.txt 3-b13-10|1 >>result1.txt
+getindata data.txt 3-b13-11|democpp>>result2.txt
+getindata data.txt 3-b13-11|1 >>result1.txt
+getindata data.txt 3-b13-12|democpp>>result2.txt
+getindata data.txt 3-b13-12|1 >>result1.txt
+getindata data.txt 3-b13-13|democpp>>result2.txt
+getindata data.txt 3-b13-13|1 >>result1.txt
+getindata data.txt 3-b13-14|democpp>>result2.txt
+getindata data.txt 3-b13-14|1 >>result1.txt
+getindata data.txt 3-b13-15|democpp>>result2.txt
+getindata data.txt 3-b13-15|1 >>result1.txt
+getindata data.txt 3-b13-16|democpp>>result2.txt
+getindata data.txt 3-b13-16|1 >>result1.txt
+getindata data.txt 3-b13-17|democpp>>result2.txt
+getindata data.txt 3-b13-17|1 >>result1.txt
+getindata data.txt 3-b13-18|democpp>>result2.txt
+getindata data.txt 3-b13-18|1 >>result1.txt
+getindata data.txt 3-b13-19|democpp>>result2.txt
+getindata data.txt 3-b13-19|1 >>result1.txt
+getindata data.txt 3-b13-20|democpp>>result2.txt
+getindata data.txt 3-b13-20|1 >>result1.txt
+getindata data.txt 3-b13-21|democpp>>result2.txt
+getindata data.txt 3-b13-21|1 >>result1.txt
+getindata data.txt 3-b13-22|democpp>>result2.txt
+getindata data.txt 3-b13-22|1 >>result1.txt
+getindata data.txt 3-b13-23|democpp>>result2.txt
+getindata data.txt 3-b13-23|1 >>result1.txt
+getindata data.txt 3-b13-24|democpp>>result2.txt
+getindata data.txt 3-b13-24|1 >>result1.txt
+getindata data.txt 3-b13-25|democpp>>result2.txt
+getindata data.txt 3-b13-25|1 >>result1.txt
+getindata data.txt 3-b13-26|democpp>>result2.txt
+getindata data.txt 3-b13-26|1 >>result1.txt
+getindata data.txt 3-b13-27|democpp>>result2.txt
+getindata data.txt 3-b13-27|1 >>result1.txt
+getindata data.txt 3-b13-28|democpp>>result2.txt
+getindata data.txt 3-b13-28|1 >>result1.txt
+getindata data.txt 3-b13-29|democpp>>result2.txt
+getindata data.txt 3-b13-29|1 >>result1.txt
+getindata data.txt 3-b13-30|democpp>>result2.txt
+getindata data.txt 3-b13-30|1 >>result1.txt
+getindata data.txt 3-b13-31|democpp>>result2.txt
+getindata data.txt 3-b13-31|1 >>result1.txt
+getindata data.txt 3-b13-32|democpp>>result2.txt
+getindata data.txt 3-b13-32|1 >>result1.txt
+getindata data.txt 3-b13-33|democpp>>result2.txt
+getindata data.txt 3-b13-33|1 >>result1.txt
+getindata data.txt 3-b13-34|democpp>>result2.txt
+getindata data.txt 3-b13-34|1 >>result1.txt
+getindata data.txt 3-b13-35|democpp>>result2.txt
+getindata data.txt 3-b13-35|1 >>result1.txt
+getindata data.txt 3-b13-36|democpp>>result2.txt
+getindata data.txt 3-b13-36|1 >>result1.txt
+tc --file1 result1.txt --file2 result2.txt --display normal

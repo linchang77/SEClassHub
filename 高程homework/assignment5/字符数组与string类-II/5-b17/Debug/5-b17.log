@@ -1,0 +1,5 @@
+﻿  5-b17.cpp
+C:\Users\linchang\Desktop\高程homework\assignment5\字符数组与string类-II\5-b17\5-b17.cpp(22,13): warning C4302: “类型强制转换”: 从“const char *”到“char”截断
+C:\Users\linchang\Desktop\高程homework\assignment5\字符数组与string类-II\5-b17\5-b17.cpp(31,13): warning C4302: “类型强制转换”: 从“const char *”到“char”截断
+C:\Users\linchang\Desktop\高程homework\assignment5\字符数组与string类-II\5-b17\5-b17.cpp(40,13): warning C4302: “类型强制转换”: 从“const char *”到“char”截断
+  5-b17.vcxproj -> C:\Users\linchang\Desktop\高程homework\assignment5\字符数组与string类-II\Debug\5-b17.exe
