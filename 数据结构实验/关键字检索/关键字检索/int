@@ -1,0 +1,9 @@
+ main()
+{
+	char filename[100];
+	char key[100];
+	cout << "关键字检索系统";
+	cout << "请输入文件名：";
+	cin >> filename;
+	cout << endl;
+	cout << "请输入一段英文(^

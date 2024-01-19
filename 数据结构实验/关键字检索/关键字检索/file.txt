@@ -1,0 +1,5 @@
+
+cout << "本文段已保存在文本文件" << "“" << filename << "”" << "中。" << endl<<endl;
+cout << "请输入要检索的关键字" ;
+cin >> key;
+cout << "显示源文件" << "“" << filename << "”：" << endl;^

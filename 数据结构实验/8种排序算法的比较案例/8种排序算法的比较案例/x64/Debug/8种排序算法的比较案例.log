@@ -1,0 +1,7 @@
+﻿  sort.cpp
+C:\Users\linchang\Desktop\数据结构实验\8种排序算法的比较案例\8种排序算法的比较案例\sort.cpp(20,40): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\linchang\Desktop\数据结构实验\8种排序算法的比较案例\8种排序算法的比较案例\sort.cpp(21,26): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+C:\Users\linchang\Desktop\数据结构实验\8种排序算法的比较案例\8种排序算法的比较案例\sort.cpp(32,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\linchang\Desktop\数据结构实验\8种排序算法的比较案例\8种排序算法的比较案例\sort.cpp(109,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\linchang\Desktop\数据结构实验\8种排序算法的比较案例\8种排序算法的比较案例\sort.cpp(154,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  8种排序算法的比较案例.vcxproj -> C:\Users\linchang\Desktop\数据结构实验\8种排序算法的比较案例\x64\Debug\8种排序算法的比较案例.exe

@@ -1,0 +1,4 @@
+﻿  sort.cpp
+C:\Users\linchang\Desktop\数据结构实验\8种排序算法的比较案例\8种排序算法的比较案例\sort.cpp(29,26): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+C:\Users\linchang\Desktop\数据结构实验\8种排序算法的比较案例\8种排序算法的比较案例\sort.cpp(46,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  8种排序算法的比较案例.vcxproj -> C:\Users\linchang\Desktop\数据结构实验\8种排序算法的比较案例\Debug\8种排序算法的比较案例.exe
